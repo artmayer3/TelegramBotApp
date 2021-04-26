@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\TelegramBotApp\TelegramBotApp\bin\Release\netcoreapp3.1\publish\TelegramBotApp.exe
+C:\Users\admin\Desktop\TelegramBotApp\TelegramBotApp\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\admin\Desktop\TelegramBotApp\TelegramBotApp\bin\Release\netcoreapp3.1\publish\appsettings.json
+C:\Users\admin\Desktop\TelegramBotApp\TelegramBotApp\bin\Release\netcoreapp3.1\publish\TelegramBotApp.dll
+C:\Users\admin\Desktop\TelegramBotApp\TelegramBotApp\bin\Release\netcoreapp3.1\publish\TelegramBotApp.deps.json
+C:\Users\admin\Desktop\TelegramBotApp\TelegramBotApp\bin\Release\netcoreapp3.1\publish\TelegramBotApp.runtimeconfig.json
+C:\Users\admin\Desktop\TelegramBotApp\TelegramBotApp\bin\Release\netcoreapp3.1\publish\TelegramBotApp.pdb
+C:\Users\admin\Desktop\TelegramBotApp\TelegramBotApp\bin\Release\netcoreapp3.1\publish\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\admin\Desktop\TelegramBotApp\TelegramBotApp\bin\Release\netcoreapp3.1\publish\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\admin\Desktop\TelegramBotApp\TelegramBotApp\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\TelegramBotApp\TelegramBotApp\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.Bson.dll
+C:\Users\admin\Desktop\TelegramBotApp\TelegramBotApp\bin\Release\netcoreapp3.1\publish\Telegram.Bot.dll
