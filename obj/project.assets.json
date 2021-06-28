@@ -4882,11 +4882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\TelegramBotApp\\TelegramBotApp\\TelegramBotApp.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\TelegramBotApp\\TelegramBotApp.csproj",
       "projectName": "TelegramBotApp",
-      "projectPath": "C:\\Users\\admin\\Desktop\\TelegramBotApp\\TelegramBotApp\\TelegramBotApp.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\TelegramBotApp\\TelegramBotApp.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\TelegramBotApp\\TelegramBotApp\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\TelegramBotApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4942,7 +4942,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

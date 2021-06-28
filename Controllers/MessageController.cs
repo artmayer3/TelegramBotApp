@@ -22,7 +22,7 @@ namespace TelegramBotApp.Controllers
                 return Ok();
 
             var commands = Bot.Commands;
-            var message = update.Message;
+            var message = update.Message ?? ConvertCallback(update.CallbackQuery);
             var botClient = await Bot.GetBotClientAsync();
 
             foreach (var command in commands)
@@ -33,7 +33,20 @@ namespace TelegramBotApp.Controllers
                     break;
                 }
             }
+            if(update.CallbackQuery != null)
+            {
+                await botClient.AnswerCallbackQueryAsync(update.CallbackQuery.Id);
+            }
             return Ok();
+        }
+        private Message ConvertCallback(CallbackQuery callbackQuery)
+        {
+            var message = new Message
+            {
+                Text = callbackQuery.Data,
+                Chat = callbackQuery.Message.Chat
+            };
+            return message;
         }
     }
 }

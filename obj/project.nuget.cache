@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N50XDcFYmTgt+zL7YhZ/YHjHIT73OEb6Md+Kqt5Szwch7sLfBixDCpxViYycNdMYLEoQMywXcugZy/J39FGl0w==",
+  "dgSpecHash": "7YAO7+kouEsPR36kkdsJ2HvAuUxzlNgBNEXW1KeGokvDFQ69g4QqoYToVxRd9xCMuNdwQkVLluxSXCu6A0CAgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\TelegramBotApp\\TelegramBotApp\\TelegramBotApp.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\TelegramBotApp\\TelegramBotApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.14\\microsoft.aspnetcore.jsonpatch.3.1.14.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.14\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.14.nupkg.sha512",

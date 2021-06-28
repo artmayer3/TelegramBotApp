@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.IO;
 using System.Threading.Tasks;
 using Telegram.Bot;
 using TelegramBotApp.Models.Commands;
@@ -23,7 +22,8 @@ namespace TelegramBotApp.Models
             commandsList = new List<Command>
             {
                 new StartCommand(),
-                new HelpCommand()
+                new HelpCommand(),
+                new GetStudentsCommand()
             };
             //TODO: Add more commands
 
